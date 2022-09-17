@@ -1,0 +1,5 @@
+# Responsivo
+# Carrosel nos games
+# Component de Select Radix 
+# Validação (react-hook-form)
+# Autenticação: Twitch ou Discord
