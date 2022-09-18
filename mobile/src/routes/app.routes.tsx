@@ -3,8 +3,8 @@ import React from 'react'
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
 
 
-import { Home } from '../screems/Home'
-import { Game } from '../screems/Game'
+import { Home } from '../screens/Home'
+import { Game } from '../screens/Game'
 
 const { Navigator, Screen } = createNativeStackNavigator()
 
