@@ -1,19 +1,19 @@
-> Trilha Ignite
+# NLW eSportes
 
-Projeto Criado na semana NLW eSports da RocketSeat
+Projeto Criado na semana NLW eSports da RocketSeat, na trilha Ignite
 
 ## WEB
 ![preview](./.github/ladingPageWeb.png)
 
-![preview](./.github/Modal.png)
+![preview](./.github/ModalCreateAd.png)
 
-## Tecnologias
+## 🛠 Tecnologias
 - ReactJS
 - Tailwindcss
 - TypeScript
 - Radix (Lib UI)
 
-## Features 
+## 🚧 Features 
 - Responsivo
 - Carrosel nos games
 - Component de Select Radix 
